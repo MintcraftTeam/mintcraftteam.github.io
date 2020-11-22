@@ -8,9 +8,9 @@ Find out more about what we're doing here!
 
 ## Modpacks
 
-#### Mintcraft
+### Mintcraft
 
-<a href="https://www.curseforge.com/minecraft/modpacks/mintcraft"><img align="right" src="https://mintcraft.net/images/projects/mintcraft.png" width="128" height="125"></a>
+<a href="https://www.curseforge.com/minecraft/modpacks/mintcraft"><img align="left" src="https://mintcraft.net/images/projects/mintcraft.png" width="192" height="192"></a>
 
 *Mintcraft* is a modpack assembled in 1.16.3. Trying to stay true to the vanilla Minecraft experience, this modpack fleshes out vanilla mechanics and introduces a few new ones as well.
 
