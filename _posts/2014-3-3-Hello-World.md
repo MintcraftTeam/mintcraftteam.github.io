@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello, outside world!
+author: corybiscuit
+date: 2020-11-21
+tags: blog
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hey, you!  You found our site!  This is where we'll occasionally (rarely) post about what we're working on.  This may include new modpacks or it may just be delusions about nothing.  Hopefully the former.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Anyway, there isn't much here at the moment, so unless you wanna see another page about the modpack you've already played (I'm guessing that's what brought you here), I'd check back here another time.  Thanks for checkin' us out, though!
